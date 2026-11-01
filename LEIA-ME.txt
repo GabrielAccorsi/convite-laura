@@ -1,1 +1,14 @@
-Consulte README.md para publicação, testes e comparação das prévias. Publique também styles.css, app.js e as duas novas imagens. previa.jpg foi preservado; o padrão agora é previa-quadrada.jpg. Encerre também o recebimento de respostas no Google Forms.
+CONVITE DIGITAL DA LAURA — COMO PUBLICAR
+
+1. No GitHub, crie um repositório PÚBLICO chamado convite-laura.
+2. Descubra seu nome de usuário do GitHub.
+3. Abra index.html e substitua as TRÊS ocorrências de SEU-USUARIO pelo nome exato do seu usuário.
+4. Envie index.html, convite.jpg e previa.jpg para a raiz do repositório.
+5. Vá em Settings > Pages > Build and deployment. Em Source, escolha Deploy from a branch; selecione main e /(root), depois Save.
+6. Aguarde a publicação. Seu link será https://SEU-USUARIO.github.io/convite-laura/ (com seu usuário real).
+7. Envie esse link pelo WhatsApp e espere carregar a prévia antes de enviar.
+
+O botão de confirmação já aponta para:
+https://forms.gle/8HCY7EkYahpFaVXp9
+
+IMPORTANTE: a prévia depende do WhatsApp e pode ficar em cache. Se não aparecer, confira se o repositório e a imagem estão públicos e se o endereço em og:image está correto.
